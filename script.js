@@ -35,3 +35,4 @@
         [number_1, number_2] = [number_2, number_1] // number_2 = 5, number_1 = 10
         console.log(number_1);
         console.log(number_2);
+        alert("Откройте консоль");
