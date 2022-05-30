@@ -36,3 +36,10 @@
         console.log(number_1);
         console.log(number_2);
         alert("Откройте консоль");
+
+
+        var name = "Василий",
+            admin;
+
+        admin = name;
+        alert(admin);
